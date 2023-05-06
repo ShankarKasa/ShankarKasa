@@ -6,13 +6,13 @@
 
 - 💬 Ask me about **python and inkscape**
 
-- 📫 How to reach me **shankarkasa123@gmail.com**
+- 📫 How to reach me : **shankarkasa123@gmail.com**
 
 - ⚡ Fun fact : **I am a nerd!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shankar-kasa-933970248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shankarkasa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shankar-kasa-933970248/" target="blank"><img align="center" src="https://th.bing.com/th/id/R.abdb36b128f0cfcee1329ddb1365a99b?rik=Q8UtGzuevu7ZBw&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2017%2f04%2flinkedin_logo.jpg&ehk=WX0fSjGgisCu4YfNc2IBnr7nLADE%2f06resHyt%2fqG1pg%3d&risl=&pid=ImgRaw&r=0" alt="shankarkasa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
