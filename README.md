@@ -4,7 +4,7 @@
 
 - 🌱 I’m new to coding world!
 
-- 💬 Ask me about **python and inkscape**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me : **shankarkasa123@gmail.com**
 
